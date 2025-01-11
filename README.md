@@ -32,7 +32,6 @@ Reporting: Present data-driven insights in a visually appealing manner.
 Technologies Used:
 
 Microsoft Excel
-
 Pivot Tables
 
 Charts (Bar, Pie, Treemap)
